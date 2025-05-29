@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=lab1storage8917;AccountKey=EtwxbDggA7ggmuf/6Ezrc4E2gFOvMqYq4c7SICjAvDxArlfqfdX+wfYAj1q7Uu4dwSOJKNxksW8v+AStpmKODQ==;BlobEndpoint=https://lab1storage8917.blob.core.windows.net/;FileEndpoint=https://lab1storage8917.file.core.windows.net/;QueueEndpoint=https://lab1storage8917.queue.core.windows.net/;TableEndpoint=https://lab1storage8917.table.core.windows.net/",
+    "SqlConnectionString": "Server=tcp:meet-sqlserver.database.windows.net,1433;Initial Catalog=dblab1;Persist Security Info=False;User ID=meet;Password=Audit@20252025;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+    "FUNCTIONS_WORKER_RUNTIME": "python"
+  }
+}
